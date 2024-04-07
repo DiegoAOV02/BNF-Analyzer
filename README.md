@@ -27,4 +27,4 @@ Resultado
   La expresión es sintácticamente válida
 ```
 ## Video de la clase.
-[Archivo Google Drive Sólo acceso a personas de la Universidad Politécnica de Victoria] (https://drive.google.com/file/d/1g2btrIu4o2lwDIuPL_TvaMijYbJvc09i/view?usp=sharing) 
+[Sólo cuentas asociadas a la Universidad Politécnica de Victoria pueden acceder a verlo.](https://drive.google.com/file/d/1g2btrIu4o2lwDIuPL_TvaMijYbJvc09i/view?usp=sharing) 
